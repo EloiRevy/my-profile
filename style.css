@@ -1,0 +1,51 @@
+body {
+  background-color: #CCDCE3;
+}
+
+h2 {
+
+	color: blue;
+	font-size: 20px;
+	font-family: Cartoon
+}
+
+h1 {
+
+	color: red;
+	font-size: 40px;
+	font-family: Cartoon
+}
+
+.card-white {
+    background: #889EA6;
+	padding: 60px;
+	margin: 50px;
+	border : 2px solid black;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px #3E5863;
+	margin: 10px auto; 
+	width: 700px;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+	font-weight: bold;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0;
+}
+
+.list-inline li {
+	display: inline;
+	margin: 10px;
+}
